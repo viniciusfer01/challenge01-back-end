@@ -49,7 +49,7 @@ app.put("/repositories/:id", (request, response) => {
 });
 
 app.delete("/repositories/:id", (request, response) => {
-  // TODO
+  // TOD
 });
 
 app.post("/repositories/:id/like", (request, response) => {
